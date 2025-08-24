@@ -6,4 +6,5 @@ catboost
 dataclasses
 dill
 scikit-learn
+flask
 -e .
